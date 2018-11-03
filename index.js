@@ -25,7 +25,7 @@ function inc(n){
 
 function dec(n) {
   console.log(n--); // dec of n
-  return n;
+  return n--;
 }
 
 function makeInt(n) {
